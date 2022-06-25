@@ -19,13 +19,15 @@
 
 - ⚡ Fun fact **I love programming**
 
+
+<a href="https://app.daily.dev/oussamaz"><img src="https://api.daily.dev/devcards/e47e2f922e7445ad98245d22b04361ea.png?r=nzf" width="400" alt="oussamaz zaqouri's Dev Card"/></a>
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="a" height="30" width="40" /></a>
 <a href="https://twitter.com/a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="a" height="30" width="40" /></a>
 <a href="https://medium.com/@oussamazzaqouri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@oussamazzaqouri" height="30" width="40" /></a>
 <a href="/a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="a" height="30" width="40" /></a>
