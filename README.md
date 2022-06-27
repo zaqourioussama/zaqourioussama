@@ -20,8 +20,6 @@
 - ⚡ Fun fact **I love programming**
 
 
-<a href="https://app.daily.dev/oussamaz"><img src="https://api.daily.dev/devcards/e47e2f922e7445ad98245d22b04361ea.png?r=nzf" width="400" alt="oussamaz zaqouri's Dev Card"/></a>
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
